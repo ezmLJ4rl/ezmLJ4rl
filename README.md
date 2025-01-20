@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...computer science 
 - 💞️ I’m looking to collaborate on ...software engineering 
 - 📫 How to reach me ...+255 743925074
-- 😄 Pronouns: ...Me
+- 😄 Pronouns: ...He
 - ⚡ Fun fact: ...#ChristisKing
 
 <!---
